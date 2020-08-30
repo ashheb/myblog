@@ -6,29 +6,19 @@
     <description>Recent content in Posts on /home/FooBrr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2020 21:00:46 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 11:05:00 +0530</lastBuildDate>
     
 	<atom:link href="https://ashheb.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Postthree</title>
-      <link>https://ashheb.github.io/myblog/posts/postthree/</link>
-      <pubDate>Fri, 28 Aug 2020 21:00:46 +0530</pubDate>
+      <title>Hello_World</title>
+      <link>https://ashheb.github.io/myblog/posts/hello_world/</link>
+      <pubDate>Sat, 29 Aug 2020 11:05:00 +0530</pubDate>
       
-      <guid>https://ashheb.github.io/myblog/posts/postthree/</guid>
-      <description>Third page&amp;hellip; lets go</description>
-    </item>
-    
-    <item>
-      <title>Posttwo</title>
-      <link>https://ashheb.github.io/myblog/posts/posttwo/</link>
-      <pubDate>Fri, 28 Aug 2020 20:15:48 +0530</pubDate>
-      
-      <guid>https://ashheb.github.io/myblog/posts/posttwo/</guid>
-      <description>Post two
-Replace the title above with something more personal. Also, if you already have a domain ready, set the baseURL.
-Note that this value is not needed when running the local development server.</description>
+      <guid>https://ashheb.github.io/myblog/posts/hello_world/</guid>
+      <description>this is just text. No sytax applied.
+#This is using md syntax h1</description>
     </item>
     
     <item>
@@ -37,7 +27,8 @@ Note that this value is not needed when running the local development server.</d
       <pubDate>Fri, 28 Aug 2020 20:12:47 +0530</pubDate>
       
       <guid>https://ashheb.github.io/myblog/posts/postone/</guid>
-      <description>#this is a heading!</description>
+      <description>#this is a heading!
+is this text</description>
     </item>
     
   </channel>
